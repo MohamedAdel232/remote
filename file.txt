@@ -6,3 +6,4 @@ Fifth line
 merge test
 from branch
 update
+conflict
