@@ -7,3 +7,4 @@ merge test
 from branch
 update
 conflict
+new line
